@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PITL.Power.Extract.Tests/PITL.Power.Extract.Tests.csproj" Id="4b9cb760-2cfc-40ff-9fd4-4991d8f99db4" />
+  <Project Path="PITL.Power.Extract/PITL.Power.Extract.csproj" />
+</Solution>
