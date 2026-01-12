@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PITL.Power.Extract/.vs
+/PITL.Power.Extract/bin/Debug/net10.0
+/PITL.Power.Extract/obj
+/PITL.Power.Extract.Tests/bin/Debug/net10.0
+/PITL.Power.Extract.Tests/obj
